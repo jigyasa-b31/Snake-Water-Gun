@@ -19,14 +19,14 @@ The user plays against the computer using simple game logic.
 2. Run the following command:
    python main.py
 
-## 📚 What I Learned
+## What I Learned
 - Implementing game logic using conditional statements
 - Working with functions in Python
 - Using random module for computer choices
 - Taking user input and validating it
 - Building a complete beginner-friendly CLI game
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add score tracking
 - Allow multiple rounds
 - Improve user interface
